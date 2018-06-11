@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2_121</string>
+    <string name="button">Button</string>
+    <string name="title">Title:</string>
+    <string name="event_description">Event Description:</string>
+    <string name="enter">Enter</string>
+    <string name="textview">textView</string>
+    <string name="title2">Title:</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="gps">GPS:</string>
+    <string name="delete">Delete</string>
+</resources>

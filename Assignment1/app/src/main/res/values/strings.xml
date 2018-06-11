@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="equals">=</string>
+    <string name="value2">2</string>
+    <string name="exp">exp</string>
+    <string name="answer">Answer</string>
+    <string name="buttonEqual">=</string>
+    <string name="value3">3</string>
+    <string name="buttonEqual2">=</string>
+    <string name="answer2">1</string>
+    <string name="ans2">answer</string>
+    <string name="buttonEqual3">=</string>
+    <string name="ans3">Answer</string>
+    <string name="answ2">Answer</string>
+    <string name="value4">4</string>
+    <string name="buttonEqual4">=</string>
+    <string name="answ4">Answer</string>
+    <string name="answ3">Answer</string>
+    <string name="value5">5</string>
+    <string name="answ5">Answer</string>
+    <string name="buttonEqual5">=</string>
+    <string name="exp5" />
+    <string name="exp4" />
+    <string name="exp3" />
+    <string name="exp2" />
+</resources>
